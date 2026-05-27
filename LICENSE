@@ -1,0 +1,11 @@
+Proprietary — AI-Engineering.at / Josef Erlinger
+Copyright (c) 2026. All rights reserved.
+
+This software is internal compliance infrastructure tooling
+implementing IETF Agent-Audit-Trail / EU AI Act Art. 12+19 logging
+patterns. The hash-chain primitive is described in SCHEMA.md and may
+be referenced for interoperability, but no license is granted for
+external use, redistribution, or modification of the implementation
+without prior written consent.
+
+Contact: hello@ai-engineering.at
